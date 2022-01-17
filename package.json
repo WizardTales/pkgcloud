@@ -1,5 +1,5 @@
 {
-  "name": "pkgcloud",
+  "name": "@wizardtales/pkgcloud",
   "description": "A provider agnostic cloud library for Node.js",
   "version": "2.2.0",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
